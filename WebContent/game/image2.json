@@ -1,0 +1,74 @@
+{
+ 	"04": {
+        "shape": "squiggles",
+        "color": "purple",
+        "number": "one",
+        "shading": "solid"
+    },
+    "05": {
+        "shape": "squiggles",
+        "color": "purple",
+        "number": "two",
+        "shading": "solid"
+    },
+    "06": {
+        "shape": "squiggles",
+        "color": "purple",
+        "number": "three",
+        "shading": "solid"
+    },
+    "16": {
+        "shape": "diamonds",
+        "color": "green",
+        "number": "one",
+        "shading": "solid"
+    },
+    "21": {
+        "shape": "ovals",
+        "color": "red",
+        "number": "three",
+        "shading": "solid"
+    },
+    "24": {
+        "shape": "ovals",
+        "color": "purple",
+        "number": "three",
+        "shading": "solid"
+    },
+    "25": {
+        "shape": "ovals",
+        "color": "green",
+        "number": "one",
+        "shading": "solid"
+    },
+    "31": {
+        "shape": "squiggles",
+        "color": "purple",
+        "number": "one",
+        "shading": "striped"
+    },
+    "45": {
+        "shape": "diamonds",
+        "color": "green",
+        "number": "three",
+        "shading": "striped"
+    },
+    "60": {
+        "shape": "squiggles",
+        "color": "purple",
+        "number": "three",
+        "shading": "outlined"
+    },
+    "67": {
+        "shape": "diamonds",
+        "color": "purple",
+        "number": "one",
+        "shading": "outlined"
+    },
+    "73": {
+        "shape": "ovals",
+        "color": "red",
+        "number": "one",
+        "shading": "outlined"
+    }
+}

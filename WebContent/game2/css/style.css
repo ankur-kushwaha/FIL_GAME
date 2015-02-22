@@ -1,0 +1,43 @@
+body {
+	background: url(../images/goodwp.com_18086.jpg) no-repeat center center
+		fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#gameTableWrapper1 {
+	width: 50%;
+	margin: 50px auto;
+	padding: 30px;
+	border: 1px solid white;
+	background-color: rgba(255, 255, 255, 0.25);
+	border-radius: 5px;
+	box-shadow: 0px 0px 42px white inset;
+	padding: 30px;
+	border: 1px solid white;
+	background-color: rgba(255, 255, 255, 0.25);
+	border-radius: 5px;
+}
+
+#gameTable img{
+	border: 2px solid white;
+}
+
+#gameTable :checked+img{
+	border-color:black;
+	box-shadow: 0px 0px 40px black;
+}
+#gameTable input[type=checkbox]{
+	display:none;
+}
+
+#resultSet {
+	width: 15%;
+	margin: 0 auto;
+}
+
+#resultSet img {
+	width: 50px;
+}
